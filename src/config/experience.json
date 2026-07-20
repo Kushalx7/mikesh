@@ -1,0 +1,64 @@
+{
+  "herName": "My Love",
+  "meName": "Mikesh Lama",
+  "metSince": "2026-02-14T18:30:00",
+  "herBirthday": "2026-07-23",
+  "heroTitle": "Happy Birthday, My Love",
+  "heroTagline": "My favorite place in this world has always been beside you.",
+  "story": [
+    { "emoji": "❤️", "title": "The Day We Met", "text": "Valentine's Day gave us the perfect start. The moment our eyes met, everything else faded away. Your smile made the whole world feel softer, and I knew right then that you were someone special." },
+    { "emoji": "✈️", "title": "Ghandruk - Our Mountain Escape", "text": "We escaped to Ghandruk in the mountains, where we could be alone with the sky and each other. Miles away from everything, surrounded by snow-capped peaks and terraced fields. We realized that adventure with you feels like home." },
+    { "emoji": "🏖️", "title": "Pokhara - Our Lake Escape", "text": "Barefoot by Fewa Lake in Pokhara, watching the sunset paint the sky just for us. We danced by the shore and made memories that I'll treasure forever. That magical lakeside will always be our place." },
+    { "emoji": "🐘", "title": "Chitwan - Our Jungle Adventure", "text": "In the heart of Chitwan, surrounded by wild beauty and nature's grandeur. We walked through forests, spotted wildlife together, and every moment felt like we were exploring the world as one. You made the jungle feel like a romantic paradise." },
+    { "emoji": "🌸", "title": "Sikkim - Our Hidden Paradise", "text": "We found this magical hidden paradise in Sikkim, nestled in the mountains with misty valleys and ancient forests. Among the rhododendrons, prayer flags, and quiet paths, I realized that with you, even the most remote places feel like home. It was ours and ours alone." },
+    { "emoji": "🌙", "title": "Stargazing Under the Night Sky", "text": "Lying under the stars, you pointed out constellations while I pointed at you and said, 'That's my favorite view.' From Ghandruk to Pokhara to Chitwan to Sikkim, nothing compares to these moments with you." }
+  ],
+  "gallery": [
+    { "src": "photo-1.jpeg", "alt": "First photo together", "cap": "That first photo together", "ar": "1/1.2" },
+    { "src": "photo-2.jpeg", "alt": "Our first trip", "cap": "Our first trip", "ar": "1/1.4" },
+    { "src": "photo-3.jpeg", "alt": "A quiet Tuesday", "cap": "A random Tuesday, still my favorite", "ar": "1/1" },
+    { "src": "photo-4.jpeg", "alt": "Unexpected moment", "cap": "The one where you weren't ready", "ar": "1/1.3" },
+    { "src": "photo-5.jpeg", "alt": "Sunset together", "cap": "Sunset, your favorite hour", "ar": "1/1.1" },
+    { "src": "photo-6.jpeg", "alt": "Us being us", "cap": "Us, being us", "ar": "1/1.35" },
+    { "src": "photo-7.jpeg", "alt": "Adventure time", "cap": "Our adventure together", "ar": "1/1.2" },
+    { "src": "photo-8.jpeg", "alt": "Special moment", "cap": "A moment that means everything", "ar": "1/1.1" },
+    { "src": "photo-9.jpeg", "alt": "Us in love", "cap": "Forever with you", "ar": "1/1.3" }
+  ],
+  "loveLetter": "Happy Birthday, my love. ❤️🎂\n\nI wish I could be there to celebrate this special day with you, but until then, please know that my heart is always with you. Distance may keep us apart, but it could never lessen my love for you.\n\nThank you for being the most beautiful part of my life. I hope today brings you endless smiles, happiness, and everything your heart wishes for. You deserve all the love in the world.\n\nI miss you so much, and I can't wait for the day we celebrate your birthday together. Until then, I'll keep loving you from afar.\n\nHappy Birthday once again, my princess. I love you endlessly. ❤️",
+  "reasons": [
+    "Your smile", "Your kindness", "Your laugh", "Your eyes", "Your hugs", "How you remember tiny details", "Your patience with me", "The way you say my name", "Your courage", "How you make everyone feel seen", "Your curiosity about everything", "Your bad jokes that still make me smile", "How you dance in the kitchen", "Your ambition", "The way you comfort me", "Your honesty", "How you fight for what you believe in", "Your taste in music", "The way you handle bad days", "Your voice", "The way you care for others", "Your stubbornness (sometimes)", "How you say 'we' instead of 'you' or 'me'", "Your handwriting", "Your loyalty", "How safe I feel with you", "Your creativity", "The way you look when you're concentrating", "Your grace under pressure", "How you make me want to be better", "Your softness", "Your strength", "The way you forgive", "How you remember my coffee order", "Your sense of style", "The way you listen", "How you make a house feel like home", "Your bravery in hard conversations", "Your playful side", "The way you say 'good morning'", "Your dreams for our future", "How you love your people fiercely", "The way you hold my hand", "Your resilience", "How you make me laugh until I can't breathe", "Your smell after a long day", "The way you look at me when you think I'm not looking", "Simply — you, exactly as you are"
+  ],
+  "futureDreams": [
+    { "emoji": "🌠", "title": "Watch the Northern Lights", "text": "Let's chase the sky until it's painted with our own private light show." },
+    { "emoji": "🏡", "title": "Build our dream home", "text": "A place filled with quiet mornings, laughter, and all the little comforts we create together." },
+    { "emoji": "✈️", "title": "Travel to a new city", "text": "To lose ourselves in new streets and bring back a new story to whisper about." },
+    { "emoji": "🐶", "title": "Adopt a puppy", "text": "A little life to love with us, to share in every cozy day and silly adventure." }
+  ],
+  "bucketList": [
+    "Travel somewhere neither of us has been",
+    "Watch the Northern Lights together",
+    "Build our dream home, someday",
+    "Adopt a puppy",
+    "Watch a sunrise from a rooftop",
+    "Learn something new, side by side",
+    "Cook a whole holiday meal together, from scratch",
+    "Grow old, still choosing each other"
+  ],
+  "memoryStars": [
+    { "title": "Our First Meeting", "text": "Valentine's Day 2026 — the day everything changed. Your smile was the first beautiful thing I knew I'd want to remember forever.", "photoIndex": 0 },
+    { "title": "Mountain Adventure", "text": "High above the world, just you and me. We breathed in the fresh air and realized that's when we truly felt alive together.", "photoIndex": 1 },
+    { "title": "Beach at Sunset", "text": "Our feet in the sand, the ocean in front of us, and endless love in our hearts. That beach will always be ours.", "photoIndex": 2 },
+    { "title": "City Wandering", "text": "Lost in a beautiful city together. Every street we took, every wrong turn — they all led us to perfect moments.", "photoIndex": 3 },
+    { "title": "The Garden", "text": "Among the flowers and quiet paths, I fell in love with you all over again.", "photoIndex": 4 },
+    { "title": "Stargazing Night", "text": "Under infinite stars, I realized you're the brightest thing in my sky.", "photoIndex": 5 },
+    { "title": "Our Journey", "text": "From Valentine's Day to starlit nights, every place we traveled became a piece of our love story.", "photoIndex": 6 }
+  ],
+  "finalMessage": "Every star above, every page in this little world, every year still to come — it's all for you. Happy birthday on July 23rd. Thank you for being the best part of my every day.",
+  "birthdayMessage": "Happy Birthday, my love. ❤️🎂\n\nI wish I could be there to celebrate this special day with you, but until then, please know that my heart is always with you. Distance may keep us apart, but it could never lessen my love for you.\n\nThank you for being the most beautiful part of my life. I hope today brings you endless smiles, happiness, and everything your heart wishes for. You deserve all the love in the world.\n\nI miss you so much, and I can't wait for the day we celebrate your birthday together. Until then, I'll keep loving you from afar.\n\nHappy Birthday once again, my princess. I love you endlessly. ❤️",
+  "finalPhotoIndex": 5,
+  "music": "ambient.mp3",
+  "videos": [
+    { "src": "video-1.mp4", "alt": "Our memories together", "cap": "A moment in time" },
+    { "src": "video-2.mp4", "alt": "Special day", "cap": "Celebrating you" }
+  ]
+}
