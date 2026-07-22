@@ -6,19 +6,19 @@
   "heroTitle": "Happy Birthday, My Love",
   "heroTagline": "My favorite place in this world has always been beside you.",
   "story": [
-    { "emoji": "❤️", "title": "The Day We Met", "text": "Valentine's Day gave us the perfect start. The moment our eyes met, everything else faded away. Your smile made the whole world feel softer, and I knew right then that you were someone special." },
-    { "emoji": "✈️", "title": "Ghandruk - Our Mountain Escape", "text": "We escaped to Ghandruk in the mountains, where we could be alone with the sky and each other. Miles away from everything, surrounded by snow-capped peaks and terraced fields. We realized that adventure with you feels like home." },
-    { "emoji": "🏖️", "title": "Pokhara - Our Lake Escape", "text": "Barefoot by Fewa Lake in Pokhara, watching the sunset paint the sky just for us. We danced by the shore and made memories that I'll treasure forever. That magical lakeside will always be our place." },
-    { "emoji": "🐘", "title": "Chitwan - Our Jungle Adventure", "text": "In the heart of Chitwan, surrounded by wild beauty and nature's grandeur. We walked through forests, spotted wildlife together, and every moment felt like we were exploring the world as one. You made the jungle feel like a romantic paradise." },
-    { "emoji": "🌸", "title": "Sikkim - Our Hidden Paradise", "text": "We found this magical hidden paradise in Sikkim, nestled in the mountains with misty valleys and ancient forests. Among the rhododendrons, prayer flags, and quiet paths, I realized that with you, even the most remote places feel like home. It was ours and ours alone." },
-    { "emoji": "🌙", "title": "Stargazing Under the Night Sky", "text": "Lying under the stars, you pointed out constellations while I pointed at you and said, 'That's my favorite view.' From Ghandruk to Pokhara to Chitwan to Sikkim, nothing compares to these moments with you." }
+    { "emoji": "❤️", "title": "The Day We Met", "text": "I still remember the day we first met. Our trip to Kanyam became the beginning of my favorite memory. That wonderful night at the resort with brothers and sisters, our eyes kept meeting, yet neither of us said a word. I was too shy, but my heart already knew you were someone special. The next morning, walking together to Pathivara Temple felt like the perfect start to our story. Looking back, those silent moments became the most beautiful memories I'll cherish forever. ❤️" },
+    { "emoji": "🏖️", "title": "Siliguri — Our Day Trip", "text": "I still remember our Siliguri trip, the day I realized you had feelings for me too. We laughed, played games at Vega Circle, and made memories I’ll always cherish. That Rose Day was special that I gave you a rose, and I still have and wear the (I GOT YOU) badge you gave me. I still remember the sadness on our way back, thinking it might be our last trip, but it became a beautiful memory of when our hearts grew closer. ❤️" },
+     { "emoji": "✈️", "title": "Ghandruk - Our Mountain Escape", "text": "We escaped to Ghandruk in the mountains, where we could be alone with the sky and each other. Miles away from everything, surrounded by snow-capped peaks and terraced fields. We realized that adventure with you feels like home." },
+    { "emoji": "🏖️", "title": "Pokhara — Our Lake Escape", "text": "I still remember our Pokhara days — kayaking together, watching the sunset paint the sky just for us, and those beautiful nights at the Irish pub filled with laughter and love. I still hear your sweet voice saying, “I love you, baby… I want you, baby,” with that cute drunken smile. Some places become special because of the memories we create there, and Pokhara will always be my favorite because it has a piece of us. ❤️" },
+    { "emoji": "🐘", "title": "Chitwan - Our Jungle Adventure", "text": "I still remember our Chitwan adventure, surrounded by nature, forests, and the beauty of the wild. Walking through the jungle, spotting wildlife together, and sharing those little moments made it feel like we were exploring the world hand in hand. You turned an ordinary trip into a beautiful romantic memory.But the next day became even more special just you and me, away from everyone, getting closer with every conversation. Those late-night talks at restaurant sharing drinks and returning to the hotel together are memories my heart will always keep. Chitwan will always remind me of the day we felt a little more like “us.” ❤️" },
+    { "emoji": "�️", "title": "Kathmandu — Our Beautiful Memories", "text": "I still remember the beautiful moments we created together in Kathmandu. Exploring new places, those special dinner nights, laughing together, sharing drinks, and the quiet moments where it felt like the whole world was just ours. Every kiss, every smile, and every night we spent together became a memory I’ll always hold close to my heart. Kathmandu isn’t just a place anymore — it’s a collection of our love, happiness, and unforgettable moments. ❤️" }
   ],
   "gallery": [
-    { "src": "photo-1.jpeg", "alt": "First photo together", "cap": "That first photo together", "ar": "1/1.2" },
-    { "src": "photo-2.jpeg", "alt": "Our first trip", "cap": "Our first trip", "ar": "1/1.4" },
-    { "src": "photo-3.jpeg", "alt": "A quiet Tuesday", "cap": "A random Tuesday, still my favorite", "ar": "1/1" },
+    { "src": "photo-1.jpeg", "alt": "Memories of Hankook Sarang", "cap": "Moments in Hankook Sarang", "ar": "1/1.2" },
+    { "src": "photo-2.jpeg", "alt": "Our trip to Chitwan", "cap": "Our  trip to Chitwan", "ar": "1/1.4" },
+    { "src": "photo-3.jpeg", "alt": "A quiet Tuesday in Bhaktapur", "cap": "A random Tuesday, still my favorite", "ar": "1/1" },
     { "src": "photo-4.jpeg", "alt": "Unexpected moment", "cap": "The one where you weren't ready", "ar": "1/1.3" },
-    { "src": "photo-5.jpeg", "alt": "Sunset together", "cap": "Sunset, your favorite hour", "ar": "1/1.1" },
+    { "src": "photo-5.jpeg", "alt": "Sunset together", "cap": "Our first photo", "ar": "1/1.1" },
     { "src": "photo-6.jpeg", "alt": "Us being us", "cap": "Us, being us", "ar": "1/1.35" },
     { "src": "photo-7.jpeg", "alt": "Adventure time", "cap": "Our adventure together", "ar": "1/1.2" },
     { "src": "photo-8.jpeg", "alt": "Special moment", "cap": "A moment that means everything", "ar": "1/1.1" },
@@ -31,8 +31,8 @@
   "futureDreams": [
     { "emoji": "🌠", "title": "Watch the Northern Lights", "text": "Let's chase the sky until it's painted with our own private light show." },
     { "emoji": "🏡", "title": "Build our dream home", "text": "A place filled with quiet mornings, laughter, and all the little comforts we create together." },
-    { "emoji": "✈️", "title": "Travel to a new city", "text": "To lose ourselves in new streets and bring back a new story to whisper about." },
-    { "emoji": "🐶", "title": "Adopt a puppy", "text": "A little life to love with us, to share in every cozy day and silly adventure." }
+    { "emoji": "✈️", "title": "Travel together to a new country", "text": "To lose ourselves in unfamiliar streets, cross new borders, and bring back stories to whisper about forever." },
+    { "emoji": "🐶", "title": "Starting our family", "text": "To hold a tiny miracle made of you and me, blending the best of both our hearts into a brand-new little life to love." }
   ],
   "bucketList": [
     "Travel somewhere neither of us has been",
@@ -45,7 +45,7 @@
     "Grow old, still choosing each other"
   ],
   "memoryStars": [
-    { "title": "Our First Meeting", "text": "Valentine's Day 2026 — the day everything changed. Your smile was the first beautiful thing I knew I'd want to remember forever.", "photoIndex": 0 },
+    { "title": "Memories of Hankook Sarang", "text": "Moments of life", "photoIndex": 0 },
     { "title": "Mountain Adventure", "text": "High above the world, just you and me. We breathed in the fresh air and realized that's when we truly felt alive together.", "photoIndex": 1 },
     { "title": "Beach at Sunset", "text": "Our feet in the sand, the ocean in front of us, and endless love in our hearts. That beach will always be ours.", "photoIndex": 2 },
     { "title": "City Wandering", "text": "Lost in a beautiful city together. Every street we took, every wrong turn — they all led us to perfect moments.", "photoIndex": 3 },
